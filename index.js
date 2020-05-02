@@ -162,4 +162,3 @@ discordBot();
 
 
 
-// if (!msg.isMentioned(client.users.get('657668883402195004'))) return;
