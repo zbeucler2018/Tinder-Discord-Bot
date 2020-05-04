@@ -1,3 +1,7 @@
+
+##### AS OF NOW CODE DOES NOT WORK, SOMETHING WRING WITH THE API #####
+
+
 Requirements
 - nodejs (v10ish)
 - nodejs request module
